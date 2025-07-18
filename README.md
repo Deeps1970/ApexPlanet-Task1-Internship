@@ -17,8 +17,11 @@ This is a beginner-friendly **Authentication UI project** that demonstrates the 
 
 ## 📸 Preview
 
+- Login Page
 ![Login Page](./src/login.png)
+-Sign Up Page
 ![Sign Up Page](./src/signup.png)
+- Forgot Password Page
 ![Forgot Password Page](./src/forgotpass.png)
 
 ---
