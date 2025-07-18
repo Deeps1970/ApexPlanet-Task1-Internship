@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Simple Login Page</title>
+    <link rel="stylesheet" href="../style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Sign Up</h1>
+      <form id="SignupForm">
+        <label for="Email"><b>Email: </b></label>
+        <input id="signupEmail" type="text" placeholder="Email" required/>
+        
+        <label for="Username"><b>Username: </b></label>
+        <input id="signupUsername" type="text" placeholder="Username" required/>
+        
+        <label for="Password"><b>Password: </b></label>
+        <input id="signupPassword" type="password" placeholder="Password" required/>
+        
+        <label for="ConfirmPassword"><b>Confirm Password: </b></label>
+        <input id="signupConfirmPassword" type="password" placeholder="Confirm Password" required/>
+        
+        <p id="formMessage"></p>
+        
+        <button type="submit">Sign Up</button>
+        <p>
+          By signing up, you agree to our <a href="#">Terms of Service</a> and
+          <a href="#">Privacy Policy</a>.
+        </p>
+      </form>
+      <div class="links">
+        <p><a href="../index.html">Already have an account?</a></p>
+      </div>
+    </div>
+    <script src="../script.js"></script>
+  </body>
+</html>
