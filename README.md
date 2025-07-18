@@ -4,7 +4,9 @@ This is a beginner-friendly **Authentication UI project** that demonstrates the 
 
 ---
 
-**Live Demo**
+## 🖥️ Live Demo
+
+[Click Here to See Live Demo!](https://deeps1970.github.io/ApexPlanet-Task1-Internship/)
 
 ---
 
